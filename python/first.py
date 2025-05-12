@@ -91,8 +91,63 @@
 # print (a>=b)
 
 
-str = "emergence"
-print(str[1 :7])
+# str = "emergence"
+# print(str[1 :7])
+
+
+# marks =   int(input("marks :"))
+# if(marks >= 90):
+#     print("A")
+# elif(marks >= 80 ):
+#     print("B")
+# elif(marks >= 70 ):
+#     print("c")
+# elif(marks >= 60):
+#     print("D")
+# else:
+#     print("fail") 
+
+
+#     marks = int(input("marks: "))
+
+# if marks >= 90:
+#     print("A")
+# elif marks >= 80:
+#     print("B")
+# elif marks >= 70:
+#     print("C")
+# elif marks >= 60:
+#     print("D")
+# else:
+#     print("fail")           
+                      
+
+
+# salary = float(input("salary :"))
+# tax = salary*(0.1, 0.2) [salary>=50000]
+# print(tax)
+
+
+# Arithmetic operators
+
+
+val1 = False
+val2 = True
+print("AND operator :", val1 or val2)
+
+# Type Casting
+# It converst the data type of value inside of the variable
+
+a = float("5")
+b = 4.5
+
+print(type(a))
+print(a +b)
+
+
+
+
+
 
 
 
